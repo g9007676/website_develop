@@ -1,5 +1,7 @@
 # 建置本地端開發環境
 >安裝LAMP [XAMPP](https://www.apachefriends.org/zh_tw/download.html)
+# 編輯器下載
+(https://www.sublimetext.com/3)
 # 基礎html
 > 簡介
 > 基本架構 簡單實作！
